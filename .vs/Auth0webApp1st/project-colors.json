@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b916f803-c14f-4ece-baf8-123c6841ce81": {
+      "ProjectGuid": "b916f803-c14f-4ece-baf8-123c6841ce81",
+      "DisplayName": "Auth0webApp1st",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
